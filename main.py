@@ -61,9 +61,9 @@ async def process_data(request: RequestData):
             else:
                 concat_string += char.lower()
 
-        user_id = "john_doe_17091999"
-        email = "john@xyz.com"
-        roll_number = "ABCD123"
+        user_id = "prakhar_malviya_21052004"
+        email = "prakharmalviya.2105@gmail.com"
+        roll_number = "22BCE10459"
 
         response_data = {
             "is_success": True,
